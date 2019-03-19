@@ -6,6 +6,9 @@ package com.android.cloudolp.store.customizeposapplication.bean;
 
 public class BaseBean {
 
+    //张三分支
+    String str="张三"
+
 //地三尺提交 
     public String name;
 
