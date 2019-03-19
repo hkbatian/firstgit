@@ -6,6 +6,7 @@ package com.android.cloudolp.store.customizeposapplication.bean;
 
 public class BaseBean {
 
+//地三尺提交 
     public String name;
 
     private long baseId;
