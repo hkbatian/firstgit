@@ -6,6 +6,8 @@ package com.android.cloudolp.store.customizeposapplication.bean;
 
 public class BaseBean {
 
+    public String name;
+
     private long baseId;
 
     public BaseBean() {
